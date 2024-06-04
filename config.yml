@@ -73,6 +73,9 @@ content:
         - name: Medium
           description: Read, write and share stories that matter
           url: https://medium.com/
+        - name: v2ex
+          description: 创意工作者们的社区
+          url: https://www.v2ex.com/
     - name: 界面灵感
       sites:
         - name: 咕噜素材
