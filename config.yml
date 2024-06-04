@@ -181,6 +181,48 @@ content:
         - name: MacVk 精品软件下载
           description: MacVk 精品软件下载
           url: https://macvk.com/
+        - name: 超能搜
+          description: 超能搜是一款百度网盘搜索神器
+          url: https://www.chaonengsou.com/
+        - name: SkrBT
+          description: SkrBT 搜索
+          url: https://skrbt.link/
+        - name: ØMagnet - Torrent Sharing Made Easy
+          description: ØMagnet - Torrent Sharing Made Easy
+          url: https://getmag.net/
+        - name: 中国数字科技馆
+          description: 中国数字科技馆
+          url: https://www.cdstm.cn/
+        - name: 虫虫助手
+          description: 玩家共享好游戏
+          url: https://m.ccplay.com/
+        - name: iData-知识检索
+          description: iData-知识检索
+          url: https://www.cn-ki.net/
+        - name: 小霸王，其乐无穷
+          description: 红白机，FC 线上游戏，街机游戏，街机线上，NES games，NES games online，Super Mario
+          url: https://tools.liumingye.cn/music/?page=searchPage#/
+        - name: 老男人游戏网
+          description: 老男人游戏网 | OldmanEmu.net
+          url: https://www.oldmanemu.net/
+        - name: SkrBT
+          description: 专业的种子搜索、磁力链接搜索引擎
+          url: https://skrbtvo.top/
+        - name: 我的小站-阿里云盘资源共享站
+          description: 我的小站-阿里云盘资源共享站
+          url: https://pan666.net/
+        - name: Switch520
+          description: Switch520
+          url: https://www.gamer520.com/
+        - name: Civitai: The Home of Open-Source Generative AI
+          description: Civitai: The Home of Open-Source Generative AI
+          url: https://civitai.com/
+        - name: 苹果系统之家
+          description: mac 软件,macOS 镜像,macOS 教程,黑苹果教程软件分享
+          url: https://macoshome.com/
+        - name: 雷鲸小站-天翼云盘交流站
+          description: 雷鲸小站-天翼云盘交流站
+          url: https://www.leijing.xyz/  
     - name: 社区资讯
       sites:
         - name: 人人都是产品经理
