@@ -127,11 +127,11 @@ content:
           url: https://www.aigei.com/
         - name: ppt - MindShow，让想法快速展示
           description: ppt - MindShow，让想法快速展示
-          url: https://www.mindshow.fun/#/home
-       - name: 在线视频下载 - VideoFk
+          url: https://www.mindshow.fun
+        - name: 在线视频下载 - VideoFk
           description: 在线视频下载 - VideoFk
           url: https://www.videofk.com/zh-CN/online-video-download
-       - name: SkrBT - 专业的种子搜索、磁力链接搜索引擎
+        - name: SkrBT - 专业的种子搜索、磁力链接搜索引擎
           description: SkrBT - 专业的种子搜索、磁力链接搜索引擎
           url: https://skrbtge.top/
         - name: 路过图床 - 免费图片上传, 专业图片外链, 免费公共图床
