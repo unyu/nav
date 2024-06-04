@@ -74,22 +74,22 @@ content:
         - name: 图片压缩
           description: 图片压缩
           url: https://squoosh.app/
-        - name: iLoveIMG | 图像文件在线编辑工具
+        - name: iLoveIMG
           description: iLoveIMG | 图像文件在线编辑工具
           url: https://www.iloveimg.com/zh-cn
-        - name: 消除或者替换图像背景，无需上传图像 - BgSub
+        - name: BgSub
           description: 消除或者替换图像背景，无需上传图像
           url: https://bgsub.cn/webapp/
-        - name: Convertio — 文件转换器
+        - name: Convertio
           description: Convertio — 文件转换器
           url: https://convertio.co/zh/
-        - name: Smallpdf.com – 您所有 PDF 问题的免费解决方案
-          description: Smallpdf.com – 您所有 PDF 问题的免费解决方案
+        - name: Smallpdf.com
+          description: 您所有 PDF 问题的免费解决方案
           url: https://smallpdf.com/cn
-        - name: 在线转换文档，图像，视频，音频文件
+        - name: 在线转换
           description: 在线转换文档，图像，视频，音频文件
           url: https://www.aconvert.com/cn/
-        - name: Regex.ai 正则工具箱
+        - name: Regex.ai
           description: Regex.ai 正则工具箱
           url: https://regex.ai/
         - name: 在线文本差异对比
@@ -98,53 +98,47 @@ content:
         - name: ProcessOn
           description: ProcessOn
           url: https://www.processon.com/
-        - name: 自定义地图 | 高德地图 API
+        - name: 自定义地图
           description: 自定义地图 | 高德地图 API
           url: https://lbs.amap.com/getting-started/mapstyle
-        - name: 短信平台 Virtual numbers for receiving SMS online - SMS-Activate
-          description: 短信平台 Virtual numbers for receiving SMS online - SMS-Activate
+        - name: 短信平台
+          description: 短信平台 Virtual numbers for receiving SMS online
           url: https://sms-activate.org/en
-        - name: 工具人 - TOOLFK 在线工具人
+        - name: 工具人
           description: 工具人 - TOOLFK 在线工具人
           url: https://www.toolfk.com/
         - name: 种子转磁力
           description: 种子转磁力
           url: https://instant.io/
-        - name: 大数据导航 - 大数据工具导航 -199IT 大数据导航 -199IT 大数据工具导航 -Hao.199it.com
-          description: 大数据导航 - 大数据工具导航 -199IT 大数据导航 -199IT 大数据工具导航 -Hao.199it.com
+        - name: 大数据导航
+          description: 大数据导航 - 大数据工具导航
           url: http://hao.199it.com/
-        - name: 淘声网 - toSound 声音搜索引擎 - 免费音效素材资源 | 视频游戏配乐下载
-          description: 淘声网 - toSound 声音搜索引擎 - 免费音效素材资源 | 视频游戏配乐下载
+        - name: 淘声网 - toSound
+          description: 淘声网 - toSound 声音搜索引擎 - 免费音效素材资源
           url: https://www.tosound.com/
-        - name: 字体下载 - 求字体网提供中文和英文字体库下载、识别与预览服务，找字体的好帮手
-          description: 字体下载 - 求字体网提供中文和英文字体库下载、识别与预览服务，找字体的好帮手
+        - name: 字体下载
+          description: 求字体网提供中文和英文字体库下载、识别与预览服务，找字体的好帮手
           url: https://www.zhaozi.cn/
-        - name: 找字网 _ 找字体、免费字体下载、字体在线商用授权、ttf 字体分享、专业字体网站！
-          description: 找字网 _ 找字体、免费字体下载、字体在线商用授权、ttf 字体分享、专业字体网站！
+        - name: 找字网
+          description: 找字体、免费字体下载、字体在线商用授权、ttf 字体分享、专业字体网站！
           url: https://www.china-font.net/
-        - name: 爱给网 _ 音效配乐 _3D 模型 _ 视频素材 _ 免费下载
-          description: 爱给网 _ 音效配乐 _3D 模型 _ 视频素材 _ 免费下载
+        - name: 爱给网
+          description: 音效配乐 _3D 模型 _ 视频素材 _ 免费下载
           url: https://www.aigei.com/
-        - name: ppt - MindShow，让想法快速展示
+        - name: ppt - MindShow
           description: ppt - MindShow，让想法快速展示
           url: https://www.mindshow.fun
-        - name: 在线视频下载 - VideoFk
+        - name: VideoFk
           description: 在线视频下载 - VideoFk
           url: https://www.videofk.com/zh-CN/online-video-download
-        - name: SkrBT - 专业的种子搜索、磁力链接搜索引擎
-          description: SkrBT - 专业的种子搜索、磁力链接搜索引擎
+        - name: SkrBT
+          description: 专业的种子搜索、磁力链接搜索引擎
           url: https://skrbtge.top/
-        - name: 路过图床 - 免费图片上传, 专业图片外链, 免费公共图床
-          description: 路过图床 - 免费图片上传, 专业图片外链, 免费公共图床
+        - name: 路过图床
+          description: 免费图片上传, 专业图片外链, 免费公共图床
           url: https://imgse.com/
-        - name: AlternativeTo - Crowdsourced software recommendations
-          description: AlternativeTo - Crowdsourced software recommendations
-          url: https://alternativeto.net/
-        - name: waifu2x
-          description: waifu2x
-          url: https://waifu2x.udp.jp/
-        - name: 帮小忙 - 腾讯 QQ 浏览器在线工具箱平台
-          description: 帮小忙 - 腾讯 QQ 浏览器在线工具箱平台
+        - name: 帮小忙
+          description: 腾讯 QQ 浏览器在线工具箱平台
           url: https://tool.browser.qq.com/
 
     - name: 社区资讯
