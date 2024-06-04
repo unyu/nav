@@ -49,7 +49,26 @@ content:
         - name: 国家税务
           description: 北京电子税务局
           url: https://etax.beijing.chinatax.gov.cn/         
-          
+    - name: 影视
+      sites:
+          name: 中国高清网
+          url: http://gaoqing.la/
+          name: 低端影视
+          description: 超清在线视频站
+          url: https://ddrk.me/
+          name: LIBVIO影视
+          description: 超清在线视频站
+          url: https://www.libvio.cc/
+          name: 厂长资源
+          description: 在线免费播放_最新高清电影_美剧推荐_日韩剧集推荐！
+          url: https://czzy03.com/
+          name: 影猫の仓库
+          description: 免费观影第一站！
+          url: https://ymck.me/
+          name: 好看的美剧
+          url: http://www.meijutt.com/
+          name: 预告片世界
+          url: http://www.yugaopian.cn/
     - name: 社区资讯
       sites:
         - name: 人人都是产品经理
@@ -115,26 +134,6 @@ content:
         - name: Simpleline Icons
           description: Simple line Icons pack
           url: http://simplelineicons.com/
-    - name: UI资源
-      sites:
-        - name: Freebiesbug
-          description: Hand-picked resources for web designer and developers, constantly updated.
-          url: https://freebiesbug.com/
-        - name: Freebie Supply
-          description: Free Resources For Designers
-          url: https://freebiesupply.com/
-        - name: 云瑞
-          description: 优秀设计资源的分享网站
-          url: https://www.yrucd.com/
-        - name: ui8
-          description: UI Kits, Wireframe Kits, Templates, Icons and More
-          url: https://ui8.net/
-        - name: PrincipleRepo
-          description: Free, High Quality Principle Resources
-          url: http://principlerepo.com/
-        - name: Designmodo
-          description: Web Design Blog and Shop
-          url: https://designmodo.com/
     - name: 摄影图库
       sites:
         - name: Unsplash
@@ -196,35 +195,3 @@ content:
         - name: tretars
           description: The best free Mockups from the Web
           url: http://www.tretars.com/ppt-templates
-    - name: 界面设计
-      sites:
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
-        - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
-        - name: Google
-          description: 全球最大的UI学习分享平台
-          url: https://www.google.com/
-        - name: Medium
-          description: Read, write and share stories that matter
-          url: https://medium.com/
