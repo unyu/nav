@@ -1,5 +1,5 @@
 # title of website
-title: nav
+title:   
 
 # description of website
 description: unyu's navigation site
@@ -8,13 +8,13 @@ description: unyu's navigation site
 favicon: "https://github.com/unyu.png?size=40"
 
 # your website url
-url: https://unyu.github.io/nav/
+# url: https://unyu.github.io/nav/
 
 # github profile url
-github: "https://github.com/unyu"
+# github: "https://github.com/unyu"
 
 # footer message
-footer: © 2021-2021 @unyu
+# footer: © 2021-2021 @unyu
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
