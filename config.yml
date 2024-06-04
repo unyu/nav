@@ -52,18 +52,6 @@ content:
           
     - name: 社区资讯
       sites:
-        - name: 雷锋网
-          description: 人工智能和智能硬件领域的互联网科技媒体
-          url: https://www.leiphone.com/
-        - name: 36kr
-          description: 创业资讯、科技新闻
-          url: http://36kr.com/
-        - name: 数英网
-          description: 数字媒体及职业招聘网站
-          url: https://www.digitaling.com/
-        - name: 猎云网
-          description: 互联网创业项目推荐和创业创新资讯
-          url: http://www.lieyunwang.com/
         - name: 人人都是产品经理
           description: 产品经理、产品爱好者学习交流平台
           url: http://www.woshipm.com/
@@ -127,38 +115,6 @@ content:
         - name: Simpleline Icons
           description: Simple line Icons pack
           url: http://simplelineicons.com/
-    - name: 平面素材
-      sites:
-        - name: wallhalla
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-          url: https://wallhalla.com/
-        - name: 365PSD
-          description: Free PSD & Graphics, Illustrations
-          url: https://365psd.com/
-        - name: Medialoot
-          description: Free & Premium Design Resources — Medialoot
-          url: https://medialoot.com/
-        - name: 千图网
-          description: 专注免费设计素材下载的网站
-          url: http://www.58pic.com/
-        - name: 千库网
-          description: 免费png图片背景素材下载
-          url: http://588ku.com/
-        - name: 我图网
-          description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
-          url: http://www.ooopic.com/
-        - name: 90设计
-          description: 电商设计（淘宝美工）千图免费淘宝素材库
-          url: http://90sheji.com/
-        - name: 昵图网
-          description: 原创素材共享平台
-          url: http://www.nipic.com/
-        - name: 素材中国
-          description: 免费素材共享平台
-          url: http://www.sccnn.com/
-        - name: freepik
-          description: More than a million free vectors, PSD, photos and free icons.
-          url: https://www.freepik.com/
     - name: UI资源
       sites:
         - name: Freebiesbug
@@ -179,47 +135,6 @@ content:
         - name: Designmodo
           description: Web Design Blog and Shop
           url: https://designmodo.com/
-    - name: 字体资源
-      sites:
-        - name: Google Font
-          description: Making the web more beautiful, fast, and open through great typography
-          url: https://fonts.google.com/
-        - name: Typekit
-          description: Quality fonts from the world’s best foundries.
-          url: https://typekit.com/
-        - name: 方正字库
-          description: 方正字库官方网站
-          url: http://www.foundertype.com/
-        - name: 字体传奇网
-          description: 中国首个字体品牌设计师交流网
-          url: http://ziticq.com/
-        - name: Fontsquirrel
-          description: FREE fonts for graphic designers
-          url: https://www.fontsquirrel.com/
-        - name: Urban Fonts
-          description: Download Free Fonts and Free Dingbats.
-          url: https://www.urbanfonts.com/
-        - name: Lost Type
-          description: Lost Type is a Collaborative Digital Type Foundry
-          url: http://www.losttype.com/
-        - name: Fontex
-          description: Free Fonts to Download + Premium Typefaces
-          url: http://www.fontex.org/
-        - name: FontM
-          description: Free Fonts
-          url: http://fontm.com/
-        - name: My Fonts
-          description: Fonts for Print, Products & Screens
-          url: http://www.myfonts.com/
-        - name: Da Font
-          description: Archive of freely downloadable fonts.
-          url: https://www.dafont.com/
-        - name: OnlineWebFonts
-          description: WEB Free Fonts for Windows and Mac / Font free Download
-          url: https://www.onlinewebfonts.com/
-        - name: Abstract Fonts
-          description: Abstract Fonts (13,866 free fonts)
-          url: http://www.abstractfonts.com/
     - name: 摄影图库
       sites:
         - name: Unsplash
@@ -240,24 +155,12 @@ content:
         - name: StockSnap
           description: Beautiful free stock photos
           url: https://stocksnap.io/
-        - name: albumarium
-          description: The best place to find & share beautiful images
-          url: http://albumarium.com/
         - name: myphotopack
           description: A free photo pack just for you. Every month.
           url: https://myphotopack.com/
-        - name: Notaselfie
-          description: Photos that happen along the way. You can use the images anyway you like. Have fun!
-          url: http://notaselfie.com/
         - name: papers
           description: Wallpapers Every Hour!Hand collected :)
           url: http://papers.co/
-        - name: stokpic
-          description: Free Stock Photos For Commercial Use
-          url: http://stokpic.com/
-        - name: 55mm
-          description: Use our FREE photos to tell your story!
-          url: https://55mm.co/visuals
         - name: thestocks
           description: Use our FREE photos to tell your story!
           url: http://thestocks.im/
@@ -270,30 +173,18 @@ content:
         - name: gratisography
           description: Free high-resolution pictures you can use on your personal and commercial projects, free of copyright restrictions.
           url: https://gratisography.com/
-        - name: imcreator
-          description: A curated collection of free web design resources, all for commercial use.
-          url: http://imcreator.com/free
         - name: lifeofpix
           description: Free high resolution photography
           url: http://www.lifeofpix.com/
         - name: skitterphoto
           description: Free Stock Photos for Creative Professionals
           url: https://skitterphoto.com/
-        - name: mmtstock
-          description: Free photos for commercial use
-          url: https://mmtstock.com/
-        - name: magdeleine
-          description: HAND-PICKED FREE PHOTOS FOR YOUR INSPIRATION
-          url: https://magdeleine.co/browse/
         - name: jeshoots
           description: New Free Photos & Mockups in to your Inbox!
           url: http://jeshoots.com/
         - name: hdwallpapers
           description: High Definition Wallpapers & Desktop Backgrounds
           url: https://www.hdwallpapers.net
-        - name: publicdomainarchive
-          description: New 100% Free Stock Photos. Every. Single. Week.
-          url: http://publicdomainarchive.com/
     - name: PPT资源
       sites:
         - name: OfficePLUS
@@ -302,18 +193,9 @@ content:
         - name: 优品PPT
           description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
           url: http://www.ypppt.com/
-        - name: PPT+
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台
-          url: http://www.pptplus.cn/
-        - name: PPTMind
-          description: 分享高端ppt模板与keynote模板的数字作品交易平台
-          url: http://www.pptmind.com/
         - name: tretars
           description: The best free Mockups from the Web
           url: http://www.tretars.com/ppt-templates
-        - name: 5百丁
-          description: 中国领先的PPT模板共享平台
-          url: http://ppt.500d.me/
     - name: 界面设计
       sites:
         - name: Behance
@@ -346,6 +228,3 @@ content:
         - name: Medium
           description: Read, write and share stories that matter
           url: https://medium.com/
-        - name: v2ex
-          description: 创意工作者们的社区
-          url: https://www.v2ex.com/
