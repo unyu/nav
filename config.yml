@@ -214,8 +214,8 @@ content:
         - name: Switch520
           description: Switch520
           url: https://www.gamer520.com/
-        - name: Civitai: The Home of Open-Source Generative AI
-          description: Civitai: The Home of Open-Source Generative AI
+        - name: Civitai
+          description: The Home of Open-Source Generative AI
           url: https://civitai.com/
         - name: 苹果系统之家
           description: mac 软件,macOS 镜像,macOS 教程,黑苹果教程软件分享
